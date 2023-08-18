@@ -16,16 +16,13 @@ Among the service areas assessed, cleanliness received the highest average ratin
 A notable 81.69% of customers were categorized as loyal based on their responses. On the other hand, 18.31% of customers were identified as disloyal. Strengthening loyalty programs and personalized services could help maintain and increase customer loyalty over time.
 
 ## Recommendations:
-1. **Address Dissatisfaction:**
-2. Focus on resolving issues highlighted by dissatisfied customers to improve overall passenger satisfaction.
+1. **Address Dissatisfaction:** Focus on resolving issues highlighted by dissatisfied customers to improve overall passenger satisfaction.
 
-3. **Punctuality Enhancement:**
-4. Implement strategies to reduce both arrival and departure delays, as punctuality significantly impacts customer experience.
+2. **Punctuality Enhancement:** Implement strategies to reduce both arrival and departure delays, as punctuality significantly impacts customer experience.
 
-5. **Seat Comfort and Food Quality Improvement:**
-6.  Invest in improving seat comfort and enhancing the quality of food and drink offerings to raise service area ratings.
+3. **Seat Comfort and Food Quality Improvement:** Invest in improving seat comfort and enhancing the quality of food and drink offerings to raise service area ratings.
 
-7. **Loyalty Programs:** Enhance loyalty programs and personalized services to retain loyal customers and potentially convert disloyal customers into loyal ones.
+4. **Loyalty Programs:** Enhance loyalty programs and personalized services to retain loyal customers and potentially convert disloyal customers into loyal ones.
 
 ## Conclusion:
 This data analysis report sheds light on various aspects of passenger satisfaction for the airline. By addressing areas of concern and capitalizing on strengths, the airline can create a more positive travel experience, leading to increased customer loyalty and satisfaction.
