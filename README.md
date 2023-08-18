@@ -1,4 +1,4 @@
-# Airline Passenger Satisfaction Data Analysis Report
+# Airline Passenger Satisfaction Data Analysis Report in PowerBi
 
 ## Introduction:
 This report presents an analysis of passenger satisfaction for an airline, based on a dataset containing information from 129,880 customers. The analysis covers customer satisfaction percentages, delay statistics, service area ratings, and customer loyalty levels. This information aims to provide insights into the airline's performance and offer recommendations for improvement.
